@@ -1,1 +1,2 @@
 Open hello_world.txt, add some text to it, save it and stage it.
+Vs code feature to turn git commit -m "message" to git commit "message_tab".
